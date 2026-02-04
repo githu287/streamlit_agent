@@ -26,9 +26,3 @@ pillow
 
 # HTTP客户端
 httpx
-
-# 加密
-hashlib
-
-# 日志
-logging
