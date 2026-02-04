@@ -1,0 +1,70 @@
+2026-02-03 16:54:01,853 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 16:54:01,853 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我都使用报告
+2026-02-03 16:58:29,726 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 16:58:29,727 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-02-03 16:58:42,838 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 16:58:42,840 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我都使用报告
+2026-02-03 16:59:44,721 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 16:59:44,722 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 给我扫地机器人的使用报告
+2026-02-03 17:00:44,191 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:00:44,192 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-02-03 17:07:06,681 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:07:06,682 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 帮我生成我的使用报告
+2026-02-03 17:09:43,232 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:09:43,234 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 帮我生成使用报告
+2026-02-03 17:13:01,475 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:13:01,476 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-02-03 17:13:04,302 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:13:04,302 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 给我扫地机器人的使用报告
+2026-02-03 17:13:35,067 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:13:35,069 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-02-03 17:13:38,644 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:13:38,644 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 给我扫地机器人的使用报告
+2026-02-03 17:14:29,474 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:14:29,475 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-02-03 17:14:34,853 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:14:34,853 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 给我扫地机器人的使用报告
+2026-02-03 17:15:39,777 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:15:39,777 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-02-03 17:16:27,507 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:16:27,508 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 给我扫地机器人的使用报告
+2026-02-03 17:32:51,798 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:32:51,799 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 生成我的使用报告
+2026-02-03 17:41:45,693 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:41:45,695 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 生成我的使用报告
+2026-02-03 17:44:46,876 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:44:46,879 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 生成我的使用报告
+2026-02-03 17:51:13,353 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-03 17:51:13,354 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我都使用报告
+2026-02-03 17:51:19,196 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_id
+2026-02-03 17:51:19,198 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-02-03 17:51:19,200 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_id调用成功
+2026-02-03 17:51:19,265 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-02-03 17:51:19,265 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 1001
+2026-02-03 17:51:22,186 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_current_month
+2026-02-03 17:51:22,187 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-02-03 17:51:22,188 - agent - INFO - middleware.py:24 - [tool monitor]工具get_current_month调用成功
+2026-02-03 17:51:22,278 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-02-03 17:51:22,279 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 2025-06
+2026-02-03 17:51:23,924 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fill_context_for_report
+2026-02-03 17:51:23,924 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-02-03 17:51:23,927 - agent - INFO - middleware.py:24 - [tool monitor]工具fill_context_for_report调用成功
+2026-02-03 17:51:24,294 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有7条消息。
+2026-02-03 17:51:24,297 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | fill_context_for_report已调用
+2026-02-03 17:51:29,972 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fetch_external_data
+2026-02-03 17:51:29,973 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'user_id': 1001, 'month': '2025-06'}
+2026-02-03 17:51:29,973 - agent - INFO - middleware.py:24 - [tool monitor]工具fetch_external_data调用成功
+2026-02-03 17:51:32,086 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有9条消息。
+2026-02-03 17:51:32,087 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | Error invoking tool 'fetch_external_data' with kwargs {'user_id': 1001, 'month': '2025-06'} with error:
+ user_id: Input should be a valid string
+ Please fix the error and try again.
+2026-02-03 17:51:35,915 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fetch_external_data
+2026-02-03 17:51:35,916 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'user_id': '1001', 'month': '2025-06'}
+2026-02-03 17:51:35,921 - agent - INFO - middleware.py:24 - [tool monitor]工具fetch_external_data调用成功
+2026-02-03 17:51:37,496 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有11条消息。
+2026-02-03 17:51:37,496 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | {"特征": "65㎡公寓 | 单身 | 木地板", "效率": "覆盖率:85%\\n日均清扫:45㎡\\n漏扫区域:沙发底部（高度不足）", "耗材": "主刷寿命:剩余60天\\nHEPA滤网:剩余40%", "对比": "优于65%同面积用户（清洁频率更高）"}
+2026-02-03 17:51:39,693 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-02-03 17:51:39,694 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人保养建议'}
+2026-02-03 17:51:46,043 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-02-03 17:51:47,591 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有13条消息。
+2026-02-03 17:51:47,591 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 扫地机器人保养建议包括：定期清理尘盒和滤网，避免灰尘堵塞影响吸力；及时清除缠绕在滚刷和边刷上的毛发、线头等杂物；定期擦拭机身底部和传感器，保持清洁以确保正常运行；长时间不使用时应将机器人存放在干燥通风处，并断开电源；建议每月进行一次全面清洁保养，检查各部件是否正常工作。

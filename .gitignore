@@ -1,0 +1,23 @@
+# 虚拟环境
+venv/
+.venv/
+
+# 日志文件
+logs/
+*.log
+
+# 向量数据库
+chroma_db/
+agent/chroma_db/
+rag/chroma_db/
+
+# IDE配置
+.idea/
+.vscode/
+
+# 临时文件
+*.pyc
+__pycache__/
+
+# 数据文件（如果不需要上传）
+data/
